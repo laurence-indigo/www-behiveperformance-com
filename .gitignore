@@ -41,6 +41,10 @@ wp-content/themes/beehive/node_modules/
 !wp-content/themes/genesis-block-theme/*
 wp-content/themes/genesis-block-theme/node_modules/
 
+!wp-content/themes/nevertheless/
+!wp-content/themes/nevertheless/*
+wp-content/themes/nevertheless/node_modules/
+
 
 
 
